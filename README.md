@@ -26,4 +26,4 @@ The list of endpoints related to encoding and decoding urls-
    - Example Response-Body: 
         -["Pen","Book"]
         
-Username to match for authentication can be specified in the application.properties and password is ahrd coded.
+Username to match for authentication can be specified in the application.properties and password is hard coded.
