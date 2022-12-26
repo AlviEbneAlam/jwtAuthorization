@@ -1,0 +1,14 @@
+2022-12-26 16:41:32,200 INFO org.springframework.boot.StartupInfoLogger [main] Starting JwtassessmentApplication using Java 11.0.12 on 210505-Alvi with PID 14392 (D:\jwtassessment\target\classes started by Alvi in D:\jwtassessment)
+2022-12-26 16:41:32,206 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-12-26 16:41:32,207 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-26 16:41:33,429 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-26 16:41:33,438 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-26 16:41:33,439 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-26 16:41:33,439 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-12-26 16:41:33,548 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-26 16:41:33,549 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1277 ms
+2022-12-26 16:41:33,601 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'jwtRequestFilter' configured for use
+2022-12-26 16:41:33,736 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2dd8ff1d, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@17e9bc9e, org.springframework.security.web.context.SecurityContextPersistenceFilter@54089484, org.springframework.security.web.header.HeaderWriterFilter@6c479fdf, org.springframework.security.web.authentication.logout.LogoutFilter@5f36c8e3, com.techcloud.jwtassessment.config.JwtRequestFilter@16a9eb2e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@65fe2691, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@68699afc, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@36b9cb99, org.springframework.security.web.session.SessionManagementFilter@493b01ef, org.springframework.security.web.access.ExceptionTranslationFilter@2f14b0f6, org.springframework.security.web.access.intercept.AuthorizationFilter@6ef60295]
+2022-12-26 16:41:33,999 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-26 16:41:34,014 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-26 16:41:34,029 INFO org.springframework.boot.StartupInfoLogger [main] Started JwtassessmentApplication in 2.449 seconds (JVM running for 3.38)
